@@ -1,0 +1,24 @@
+* {
+    border: 0.1rem solid black;
+}
+
+header,
+footer {
+    width: 100%;
+}
+
+section {
+    width: 62%;
+}
+
+aside {
+    width: 38%;
+}
+
+nav {
+    width: 50%;
+}
+
+article {
+    border: 0.1rem dotted red;
+}
