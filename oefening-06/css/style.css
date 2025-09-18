@@ -1,0 +1,90 @@
+:root {
+    --blue: 203, 100%;
+    --pink: 335, 75%;
+    --green: #00b887;
+}
+
+body {
+    background-color: #AAA;
+    font-family: Verdana, sans-serif;
+    padding: 1rem;
+}
+
+h1 {
+    background-color: lightgrey;
+    color: #555;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+#ph-scale {
+    list-style: none;
+    display: contents;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+#ph-scale li {
+    padding: 0.4rem 1rem;
+}
+
+#ph-scale li:nth-child(1) {
+    background-color: hsl(var(--blue), 45%);
+}
+
+#ph-scale li:nth-child(2) {
+    background-color: hsl(var(--blue), 50%);
+}
+
+#ph-scale li:nth-child(3) {
+    background-color: hsl(var(--blue), 55%);
+}
+
+#ph-scale li:nth-child(4) {
+    background-color: hsl(var(--blue), 60%);
+}
+
+#ph-scale li:nth-child(5) {
+    background-color: hsl(var(--blue), 65%);
+}
+
+#ph-scale li:nth-child(6) {
+    background-color: hsl(var(--blue), 70%);
+}
+
+#ph-scale li:nth-child(7) {
+    background-color: hsl(var(--blue), 75%);
+}
+
+#ph-scale li:nth-child(8) {
+    background-color: #00b887;
+}
+
+#ph-scale li:nth-child(9) {
+    background-color: hsl(var(--pink), 75%);
+}
+
+#ph-scale li:nth-child(10) {
+    background-color: hsl(var(--pink), 70%);
+}
+
+#ph-scale li:nth-child(11) {
+    background-color: hsl(var(--pink), 65%);
+}
+
+#ph-scale li:nth-child(12) {
+    background-color: hsl(var(--pink), 60%);
+}
+
+#ph-scale li:nth-child(13) {
+    background-color: hsl(var(--pink), 55%);
+}
+
+#ph-scale li:nth-child(14) {
+    background-color: hsl(var(--pink), 50%);
+}
+
+#ph-scale li:nth-child(15) {
+    background-color: hsl(var(--pink), 45%);
+}
