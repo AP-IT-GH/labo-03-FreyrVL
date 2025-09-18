@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    padding: 0.5rem;
+}
+
+h1 {
+    background-color: darkcyan;
+}
+
+h2 {
+    background-color: hotpink;
+}
+
+p {
+    background-color: white;
+}
+
+h1,
+h2,
+p {
+    padding: 1rem;
+    font-family: Verdana, sans-serif;
+}
+
+h1,
+h2 {
+    color: white;
+    text-transform: uppercase;
+}
+
+p {
+    color: #2e2e2e;
+}
