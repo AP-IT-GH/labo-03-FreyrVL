@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+.cirkel {
+    height: 200px;
+    width: 200px;
+
+    border: 10px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+
+.double {
+    border-style: double;
+}
+
+.dashed {
+    border-style: dashed;
+}
